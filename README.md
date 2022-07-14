@@ -1,5 +1,5 @@
 # 💫About Me :
-Atualmente estou trabalhando como QA na empresa HDN.Digital.
+Atualmente estou trabalhando como QA na empresa levva.
 Estou buscando conhecimento na área de desenvolvimento de software e testes automatizados.
 
 ## 🌐Socials
