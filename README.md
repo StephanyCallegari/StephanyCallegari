@@ -1,16 +1,52 @@
-# 💫About Me :
-Sou Analista de Qualidade de Software (QA) Pleno.
-Estou buscando conhecimento na área de desenvolvimento de software e testes automatizados.
+# 🌸 Oi, eu sou a Stephany Callegari!
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stephanycallegari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stephany-callegari-67601bb5/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/k_llegari) 
+Sou apaixonada por **Qualidade de Software**, **automação de testes** e **inovação tecnológica**.  
+Desde 2015, trilho minha jornada na área de TI, e nos últimos anos me encontrei de verdade no universo do **QA**.  
 
-# 💻Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=StephanyCallegari&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=StephanyCallegari&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyCallegari&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Gosto de entender o *porquê* das coisas, conectar pessoas e processos, e garantir que cada entrega tenha qualidade de ponta a ponta — desde a ideia até a experiência final do usuário.  
+Acredito que qualidade não é uma fase, é uma **cultura**. 💬✨  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=StephanyCallegari&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## 💡 O que eu faço
+
+- 🧪 Criação e execução de **casos de teste funcionais e integrados**  
+- 🔄 **Análise e testes de API** utilizando **Postman** e **Swagger**  
+- 📘 Estruturação de **cenários BDD (Gherkin)** e apoio no refinamento de critérios de aceite  
+- 🔍 Análise de logs e eventos para validação de **integrações entre sistemas**  
+- 📱 Testes manuais e automatizados em **ambientes web e mobile**  
+- 🤝 Comunicação próxima com **Product Owners e times de desenvolvimento**, focando na clareza e prevenção de falhas  
+
+---
+
+## 🛠 Tecnologias & Ferramentas
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Maestro](https://img.shields.io/badge/Maestro-%230056A6.svg?style=for-the-badge&logo=android&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 🚀 Próximos passos
+
+- Fortalecer meus conhecimentos em **automação com Playwright e Cypress**  
+- Contribuir em **projetos open source de QA e automação**  
+- Levar o mindset de qualidade para cada nova squad que eu fizer parte 💜  
+
+---
+
+## 📫 Vamos nos conectar?
+
+Se quiser conversar sobre QA, automação, metodologias ágeis ou inovações em testes, vou adorar trocar ideias!  
+
+[💼 LinkedIn](https://www.linkedin.com/in/stephany-callegari-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-67601bb5/)  
+[💻 GitHub](https://github.com/StephanyCallegari)
