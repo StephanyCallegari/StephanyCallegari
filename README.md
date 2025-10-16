@@ -14,7 +14,7 @@ Acredito que qualidade não é uma fase, é uma **cultura**. 💬✨
 - 🔄 **Análise e testes de API** utilizando **Postman** e **Swagger**  
 - 📘 Estruturação de **cenários BDD (Gherkin)** e apoio no refinamento de critérios de aceite  
 - 🔍 Análise de logs e eventos para validação de **integrações entre sistemas**  
-- 📱 Testes manuais e automatizados em **ambientes web e mobile**  
+- 📱 Testes manuais e automatizados em **ambientes web, mobile e APIs**  
 - 🤝 Comunicação próxima com **Product Owners e times de desenvolvimento**, focando na clareza e prevenção de falhas  
 
 ---
